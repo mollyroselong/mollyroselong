@@ -15,6 +15,7 @@ I am an accomplished classical violinist (I've played with Yo-Yo Ma and at [Loll
 **Share or Fare**  
 [view project preview](https://uchicago-mscapp-projects.github.io/projects/share-or-fare/)  
 [view project repository](https://github.com/uchicago-2026-capp30122/project-share-or-fare)  
+[view project demo](https://www.youtube.com/watch?v=J_djvWmZGAU)
 This course project analyzed Chicago rideshare and CTA data to identify why residents choose services like Uber or Lyft over public transportation. By integrating City of Chicago trip records with Google Maps API data, the study evaluated the trade-offs between travel time, cost, and neighborhood accessibility. The final analysis, presented via an interactive dashboard, highlights specific gaps in the transit network where service improvements could effectively reduce car dependency and improve urban equity.
 
 ## Experience
